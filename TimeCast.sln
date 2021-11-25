@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeCast", "TimeCast.csproj", "{17DCA222-D24F-40ED-B2A4-35DC74BA197E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DCA222-D24F-40ED-B2A4-35DC74BA197E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DCA222-D24F-40ED-B2A4-35DC74BA197E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DCA222-D24F-40ED-B2A4-35DC74BA197E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DCA222-D24F-40ED-B2A4-35DC74BA197E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00F66965-E51D-466C-B91D-1B26BFF4ECCC}
+	EndGlobalSection
+EndGlobal
